@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [125.6, 10.1, 0.0],
+      [225.6, 10.1, 0.0]
+    ]
+  },
+  "properties": {
+    "name": "Dinagat Islands",
+    "source": "modified from https://geojson.org/"
+  }
+}
